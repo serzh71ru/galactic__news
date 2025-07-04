@@ -1,1 +1,1 @@
-# galactic__news
+# galactic__newsg-

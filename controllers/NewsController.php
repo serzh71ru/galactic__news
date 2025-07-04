@@ -14,6 +14,9 @@ class NewsController{
         $breadcrumbs = [
             $news['title'] => false
         ];
+        $data = [
+            'title' => $news['title']
+        ];
 
         require '../views/components/header.php';
         require '../views/news_view.php';
